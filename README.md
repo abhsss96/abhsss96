@@ -52,9 +52,3 @@
 </div>
 
 ---
-
-<div align="center">
-
-*Always optimizing the workflow — currently at ~100ms shell startup* ⚡
-
-</div>
