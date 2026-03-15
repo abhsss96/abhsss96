@@ -2,7 +2,7 @@
 
 # Hey, I'm Abhishek 👋
 
-**Full-Stack Engineer** · Ruby on Rails · Elixir · TypeScript · Neovim
+**Backend Engineer** · Ruby on Rails · Elixir  · Neovim
 
 [![GitHub followers](https://img.shields.io/github/followers/abhsss96?style=flat&color=0891b2&labelColor=1c1917)](https://github.com/abhsss96)
 
@@ -13,7 +13,6 @@
 ### About
 
 - Building web applications with **Ruby on Rails** and **Elixir**
-- Frontend with **TypeScript** and modern JS tooling
 - Neovim enthusiast with a heavily customized setup
 - Obsessed with fast terminals and a clean developer workflow
 
