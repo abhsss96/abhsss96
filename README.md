@@ -5,6 +5,7 @@
 **Full-Stack Engineer** · Ruby on Rails · Elixir · TypeScript · Neovim
 
 [![GitHub followers](https://img.shields.io/github/followers/abhsss96?style=flat&color=0891b2&labelColor=1c1917)](https://github.com/abhsss96)
+[![dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=flat&logo=devdotto&logoColor=white)](https://dev.to/abhsss96)
 
 </div>
 
@@ -44,6 +45,14 @@
 
 ---
 
+
+### Writing
+
+- [Zero-Downtime PostgreSQL Major Version Upgrades in Containers: The Problem Nobody Talks About](https://dev.to/abhsss96/zero-downtime-postgresql-major-version-upgrades-in-containers-the-problem-nobody-talks-about-5ef1) · `#postgres` `#docker` `#database`
+- [Use your Obsidian vault from Neovim, organized by project](https://dev.to/abhsss96/use-your-obsidian-vault-from-neovim-organized-by-project-3gm9) · `#neovim` `#obsidian` `#productivity`
+- [Switch Your Samsung M8 Monitor HDMI Inputs from the Terminal (No Remote Needed)](https://dev.to/abhsss96/switch-your-samsung-m8-monitor-hdmi-inputs-from-the-terminal-no-remote-needed-4i84) · `#terminal` `#tooling` `#linux`
+
+---
 
 ### GitHub Stats
 
