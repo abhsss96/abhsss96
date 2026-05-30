@@ -6,6 +6,7 @@
 
 [![GitHub followers](https://img.shields.io/github/followers/abhsss96?style=flat&color=0891b2&labelColor=1c1917)](https://github.com/abhsss96)
 [![dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=flat&logo=devdotto&logoColor=white)](https://dev.to/abhsss96)
+[![RubyGems](https://img.shields.io/badge/RubyGems-CC342D?style=flat&logo=rubygems&logoColor=white)](https://rubygems.org/profiles/abhsss96)
 
 10+ years building and scaling high-performance web applications in Healthcare SaaS
 
@@ -59,6 +60,8 @@
 |---|---|
 | **notes-nvim** | Project-scoped note-taking for Neovim — daily notes, fuzzy search & Telescope integration |
 | **dotfiles** | My terminal setup — Neovim, tmux, Powerlevel10k, fzf, zoxide, eza, bat |
+| **[google-api-customization](https://bestgems.org/gems/google-api-customization)** | Ruby gem to expand Google API usage with Rails — 9K+ downloads |
+| **[+5 more gems](https://rubygems.org/profiles/abhsss96)** | Published on RubyGems — 40K+ total downloads across 6 gems |
 
 ---
 
