@@ -7,6 +7,7 @@
 [![GitHub followers](https://img.shields.io/github/followers/abhsss96?style=flat&color=0891b2&labelColor=1c1917)](https://github.com/abhsss96)
 [![dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=flat&logo=devdotto&logoColor=white)](https://dev.to/abhsss96)
 [![RubyGems](https://img.shields.io/badge/RubyGems-CC342D?style=flat&logo=rubygems&logoColor=white)](https://rubygems.org/profiles/abhsss96)
+![Profile views](https://komarev.com/ghpvc/?username=abhsss96&style=flat&color=0891b2&label=views)
 
 10+ years building and scaling high-performance web applications in Healthcare SaaS
 
